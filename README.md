@@ -19,7 +19,7 @@ I found jupyter notebook a good IDE/or practice platform for data science but wa
 ### how to get the environment running:
 1. Downlaod and Upload the [Jupyter notebook](https://github.com/speedhot/Julia-Programming-for-Data-Science/blob/master/julia_in_colab.ipynb) to your colab environment or you can create your own without mistakes
 2. Open the and run  first cell
-3. first: is to cell to install Julia and IJulia
+3. first cell: to install Julia and IJulia
 4. You have to work in this notebook only for Julia as google colab is not naturally provider of Julia
 
 
