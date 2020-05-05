@@ -14,10 +14,11 @@
 I found jupyter notebook a good IDE/or practice platform for data science but was got stuck during the installation of IJulia for Jupyter Notebook in windows system. So I searched and reached up to here, it would take a google account only in the name of prerequisite
 
 
-## you need to use this (julia_in_colab.ipynb) notebook for the same, as given
+## you need to use this (julia_in_colab.ipynb) notebook for the same, as given steps
 
 ### how to get the environment running:
-1. Open the [Jupyter notebook](https://github.com/Dsantra92/Julia-on-Collab/blob/master/julia_on_collab.ipynb).
+1. Upload the [Jupyter notebook]
+Open the [Jupyter notebook](https://github.com/Dsantra92/Julia-on-Collab/blob/master/julia_on_collab.ipynb).
 2. You can either download it or view it directly on Google Colab.
 3. Run the first cell to install Julia and IJulia.
 
