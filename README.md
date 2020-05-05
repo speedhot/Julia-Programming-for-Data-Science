@@ -14,7 +14,7 @@
 I found jupyter notebook a good IDE/or practice platform for data science but was got stuck during the installation of IJulia for Jupyter Notebook in windows system. So I searched and reached up to here, it would take a google account only in the name of prerequisite
 
 
-## you need to use this (julia_in_colab.ipynb) notebook for the same, as given steps
+## Use julia_in_colab.ipynb notebook for the same, as given steps
 
 ### how to get the environment running:
 1. Downlaod and Upload the [Jupyter notebook](https://github.com/speedhot/Julia-Programming-for-Data-Science/blob/master/julia_in_colab.ipynb) to your colab environment or you can create your own without mistakes
@@ -25,6 +25,6 @@ I found jupyter notebook a good IDE/or practice platform for data science but wa
 
 
 ## References
-[Discourse](https://discourse.julialang.org/) and many different forums over internet
+[Discourse:https://discourse.julialang.org](https://discourse.julialang.org/) and many different forums over internet
 
 
